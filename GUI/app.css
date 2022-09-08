@@ -1,0 +1,16 @@
+.root{
+    -fx-font-size: 12px;
+    -fx-font-family: 'Arial';
+    -fx-text-background-color: white;
+    -fx-background-color: #292929 ;
+}
+.button{
+    -fx-background-color: #1DB954;
+    -fx-font-family: 'Arial Black', Gadget, sans-serif;
+    -fx-font-size: 14px;
+    -fx-font-color: #292929;
+}
+.customheader{
+    -fx-font: normal bold 16px 'Arial' ;
+    -fx-fill: white;
+}
